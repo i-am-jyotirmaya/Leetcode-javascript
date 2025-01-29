@@ -4,7 +4,7 @@
 
 /**
  * Here we are generating the numbers instead of iterating from low to high as majority of number
- * among them will not be strobogrammic.
+ * among them will not be strobogrammatic.
  */
 
 /**
